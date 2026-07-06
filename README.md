@@ -1,50 +1,31 @@
-# 💫 About Me
+<h1 align="center">Hi 👋, I'm M. Fahrizal Risqy</h1>
+<h3 align="center">Aspiring Software Developer | Specializing in Java & C++ | Expanding with Python & C#</h3>
 
-Hi there! 👋 I'm **M. Fahrizal Risqy**, an aspiring Software Developer from Indonesia 🇮🇩.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=risqy-ui&label=Profile%20views&color=0e75b6&style=flat" alt="risqy-ui" /> </p>
 
-I enjoy turning ideas into software and continuously improving my programming skills through real projects and hands-on learning. My primary focus is **Java** and **C++**, while expanding my knowledge in **Python** and **C#** to become a more versatile developer.
+- 🔭 I’m currently working on **Personal Software Development Projects**
 
-For me, software development is more than writing code—it's about solving problems, building reliable applications, and learning something new every day. I believe consistency, curiosity, and continuous improvement are the keys to becoming a great developer.
+- 🌱 I’m currently learning **Java, C++, C#, Software Architecture, and Clean Code**
 
----
+- 👯 I’m looking to collaborate on **Open Source Software Projects**
 
-## 🛠 Core Skills
+- 🤝 I’m looking for help with **Java, C++, and Open Source Development**
 
-- ☕ Java Development
-- ⚙️ C++ Programming
-- 🐍 Python for Automation & Utilities
-- 💜 C# (.NET Fundamentals)
-- 🔧 Git & GitHub
-- 🖥️ Software Development Fundamentals
-- 📚 Problem Solving & Continuous Learning
+- 👨‍💻 All of my projects are available at [https://github.com/RISQY-ui](https://github.com/RISQY-ui)
 
----
+- 💬 Ask me about **Java, C++, Python, C#, Git, and Software Development**
 
-## 🎯 Current Focus
+- ⚡ Fun fact **I enjoy turning ideas into software, exploring new technologies, and occasionally getting lost in a good game. 🎮**
 
-- Building software projects with Java and C++
-- Improving object-oriented programming and clean code practices
-- Learning C# for desktop application development
-- Using Python to automate repetitive tasks and improve productivity
-- Continuously expanding my knowledge through personal projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 🚀 Goals
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=risqy-ui&show_icons=true&locale=en&layout=compact" alt="risqy-ui" /></p>
 
-- Become a Professional Software Developer
-- Build reliable and high-quality software
-- Contribute to open-source projects
-- Collaborate with developers around the world
-- Work with international clients as a freelance developer
-- Never stop learning and improving
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=risqy-ui&show_icons=true&locale=en" alt="risqy-ui" /></p>
 
----
-
-## 🌟 Fun Fact
-
-When I'm not coding, you'll probably find me exploring new technologies, organizing my development environment, or enjoying a good game. 🎮
-
-I believe every project—big or small—is another step toward becoming a better developer.
-
-> *"Code, learn, improve, repeat."* 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=risqy-ui&" alt="risqy-ui" /></p>
