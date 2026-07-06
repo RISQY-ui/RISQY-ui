@@ -1,18 +1,50 @@
-# 💫 About Me:
-​📝 About Me<br>​I am Faris, a passionate learner and an aspiring Full-Stack Developer based in Indonesia. My journey is fueled by curiosity, constantly exploring the intersections of automation, web development, and cybersecurity.<br>​I enjoy bridging the gap between concept and code. Whether it's building functional Telegram bots or diving into penetration testing, I believe in practical, hands-on learning. I am currently honing my skills in Python, web technologies, and security protocols to build more secure and efficient applications.<br>​🛠 My Core Skills<br>​Programming: Python (Automation, Scripting).<br>​Web Development: HTML, CSS, and UI design.<br>​Cybersecurity: Enthusiast in ethical hacking, pentesting concepts, and network security.<br>​Systems & Tools: Proficient in managing Termux, exploring VirtualBox environments, and troubleshooting hardware maintenance.<br>​Learning Focus: Currently exploring interactive coding challenges and security rooms to sharpen my practical skills.<br>​🚀 What I'm Working On<br>​Telegram Automation: Developing and managing custom bots.<br>​Cybersecurity Journey: Active learner on platforms like TryHackMe, exploring new rooms and concepts daily.<br>​Web Projects: Building and optimizing responsive web interfaces.<br>​Continuous Learning: Exploring Python programming paths and advanced hardware configurations.<br>​🌟 Fun Fact<br>​Beyond the terminal and code, I am a huge fan of the Pikmin series! 🌿👾 When I'm not debugging or securing systems, I love keeping my tech setup in top shape and enjoying meaningful moments with my family.<br>​“Coding is my way of understanding the world. I'm just getting started, and I'm loving every bit of the journey.”
+# 💫 About Me
 
+Hi there! 👋 I'm **M. Fahrizal Risqy**, an aspiring Software Developer from Indonesia 🇮🇩.
 
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fahrizal579421) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rizkifaris703@gmail.com) 
+I enjoy turning ideas into software and continuously improving my programming skills through real projects and hands-on learning. My primary focus is **Java** and **C++**, while expanding my knowledge in **Python** and **C#** to become a more versatile developer.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RISQY-ui&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=RISQY-ui&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RISQY-ui&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+For me, software development is more than writing code—it's about solving problems, building reliable applications, and learning something new every day. I believe consistency, curiosity, and continuous improvement are the keys to becoming a great developer.
 
 ---
-[![](https://komarev.com/ghpvc/?username=RISQY-ui&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠 Core Skills
+
+- ☕ Java Development
+- ⚙️ C++ Programming
+- 🐍 Python for Automation & Utilities
+- 💜 C# (.NET Fundamentals)
+- 🔧 Git & GitHub
+- 🖥️ Software Development Fundamentals
+- 📚 Problem Solving & Continuous Learning
+
+---
+
+## 🎯 Current Focus
+
+- Building software projects with Java and C++
+- Improving object-oriented programming and clean code practices
+- Learning C# for desktop application development
+- Using Python to automate repetitive tasks and improve productivity
+- Continuously expanding my knowledge through personal projects
+
+---
+
+## 🚀 Goals
+
+- Become a Professional Software Developer
+- Build reliable and high-quality software
+- Contribute to open-source projects
+- Collaborate with developers around the world
+- Work with international clients as a freelance developer
+- Never stop learning and improving
+
+---
+
+## 🌟 Fun Fact
+
+When I'm not coding, you'll probably find me exploring new technologies, organizing my development environment, or enjoying a good game. 🎮
+
+I believe every project—big or small—is another step toward becoming a better developer.
+
+> *"Code, learn, improve, repeat."* 🚀
