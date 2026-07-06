@@ -49,8 +49,40 @@ I believe every project—big or small—is another step toward becoming a bette
 
 > *"Code, learn, improve, repeat."* 🚀
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/RISQY-ui/RISQY-ui/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/RISQY-ui/RISQY-ui/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/RISQY-ui/RISQY-ui/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/RISQY-ui/RISQY-ui/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/RISQY-ui/RISQY-ui/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RISQY-ui/RISQY-ui/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RISQY-ui/RISQY-ui/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RISQY-ui/RISQY-ui/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RISQY-ui/RISQY-ui/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RISQY-ui/RISQY-ui/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RISQY-ui/RISQY-ui/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
